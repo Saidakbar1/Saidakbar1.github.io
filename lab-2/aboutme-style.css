@@ -33,9 +33,14 @@ body{
 }
 a{
 	color: black;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 }
 p{
 	font-size: 15px;	
+	-webkit-: 1.5em;
 }
 .moods{
 	max-width: 200px;
