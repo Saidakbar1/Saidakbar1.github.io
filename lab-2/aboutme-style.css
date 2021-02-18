@@ -1,0 +1,47 @@
+#myImage{
+	max-width: 200px;
+	max-height: 200px;
+	border-radius: 50%;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h5{
+	font-size: 50px;
+	text-align: center;
+	margin: 0;
+	font-family: Monotype Corsiva;
+	color: white;
+}
+#infoAboutMe{
+	font-size: 30px;
+	text-align: center;
+}
+h3{
+	color: white;
+	font-size: 20px;
+}
+body{
+	 background-image: url('src/bckgr.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+a{
+	color: black;
+}
+p{
+	font-size: 15px;	
+}
+.moods{
+	max-width: 200px;
+	max-height: 200px;
+
+}
+td{
+	text-align: center;
+}
